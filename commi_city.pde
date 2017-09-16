@@ -19,7 +19,7 @@ void setup() {
   myString = port.readStringUntil(lf); 
   myString = null;
   
-  size(600,600);
+  size(800,800);
   background(255);
 }
 
